@@ -1,0 +1,16 @@
+
+
+
+webmaster@durkania.com
+
+@Mobydick84
+
+
+durkania.com
+
+ftp.durkania.com
+
+
+FTP Username: webmaster@durkania.com
+FTP server: durkania.com
+FTP & explicit FTPS port:  21
